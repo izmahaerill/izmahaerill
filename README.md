@@ -3,6 +3,8 @@
  <img align="right" src="./duck.gif" alt="The Duck" width="200" />
 - 👨‍💻 All of my projects are available at (soon)
 
+- My Portfolio : https://muhammadhaerilazmi.vercel.app/
+
 - 💬 Ask me about **reactjs, nextjs**
 
 - 📫 How to reach me **muhhaerilazmi@gmail.com**
